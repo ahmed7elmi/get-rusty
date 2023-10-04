@@ -1,4 +1,3 @@
-# get-rusty
-Get Rusty... Get Schwifty... ;)
+# Get Rusty. Get Schwifty.
 
-Let's have fun learning Rust.
+This repo is all about having fun learning Rust. Let's get rusty, lets get schwifty ;)
