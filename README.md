@@ -1,3 +1,3 @@
 # Let's get Rusty...
 
-This repo is dedicated for practicing the Rust samples and getting my hands rusty ;).
+This repo is dedicated for practicing the Rust language and getting my hands rusty ;).
