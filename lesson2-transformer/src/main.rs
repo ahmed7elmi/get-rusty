@@ -2,9 +2,9 @@ use std::io;
 use slug::slugify;
 use std::env;
 
-/// Transformer struct offers a methodology to transorm input `String` into 
-/// different ways by setting multiple calls of its functions in the form of
-/// a pipeline.
+/// Transformer struct, used to transorm input `String` into another by
+/// chaining multiple calls of its functions to form a pipeline for the
+/// transformation.
 struct Transformer(String);
 
 impl Transformer {
