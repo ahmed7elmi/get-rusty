@@ -1,0 +1,15 @@
+Command             Format                              Description
+lower               lower TEXT | file:PATH              Transforms all input to lower case.
+upper               upper TEXT | file:PATH              Transforms all input to upper case.
+nospace             nospace TEXT | file:PATH            Removes all white spaces  from input.
+slugify             slugify TEXT | file:PATH            Slugifies input.
+title               title TEXT | file:PATH              Makes a title out of input.
+pascal              pascal TEXT | file:PATH             Transforms input to PascalCase.
+password            password TEXT | file:PATH           Takes a sentence as input and creates a password out of it.
+csv                 csv TEXT | file:PATH                Formats valid multi-line csv input into a table.
+help                help                                Prints this list you're reading.
+exit                exit                                Terminate the program
+
+--------------------------------------------------------------------------------------------------------------------
+* TEXT: input text as a literal string.
+* PATH: full path for input text file.
